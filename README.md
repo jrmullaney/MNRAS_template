@@ -1,6 +1,6 @@
 # The MNRAS template and style file
 
-The is the standard MNRAS template and style file used to prepare papers that are to be submitted to MNRAS, as provided by the CTAN website. The main motivation for maintaining this here is to keep a permanent record of this README, which outlines which extra latex packages need to be installed on top of BasicTex for this to compile.
+The is the MNRAS template and style file used to prepare papers that are to be submitted to MNRAS, as provided by the CTAN website, but with some very minor modifications. The main motivation for maintaining this here is to keep a permanent record of this README, which outlines which extra latex packages need to be installed on top of BasicTex for this to compile.
 
 ## Getting started:
 
